@@ -1,4 +1,5 @@
-##  In today’s fast-changing business environment, it’s extremely important to be able to respond to client needs in the most effective and timely manner. If your customers wish to see your business online and have instant access to your products or services.This Project allows viewing various products available to user and enables registered users to purchase desired products instantly using Stripe payment processor and also can place order by using cash on delivery option.The system flow is the super administrator  will be the one that manages the user panel,Other admin panel, manages the system and the maintenance.This project have Multi-Authentication For User Login and Admin Login
+## About This Project
+In today’s fast-changing business environment, it’s extremely important to be able to respond to client needs in the most effective and timely manner. If your customers wish to see your business online and have instant access to your products or services.This Project allows viewing various products available to user and enables registered users to purchase desired products instantly using Stripe payment processor and also can place order by using cash on delivery option.The system flow is the super administrator  will be the one that manages the user panel,Other admin panel, manages the system and the maintenance.This project have Multi-Authentication For User Login and Admin Login
 
 
 ## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
@@ -29,9 +30,11 @@
 
 
 
+
+
 ##  Activities
 <ul>
-<h2>For Super Admin:</h2>
+<h2>For Super Admin & Admin: (All features are same except all admins are controlled by superadmin)</h2>
 <li>Super admin can handle monthly, yearly sales, today's orders, sales, return orders,total products, total brand and total users </li>
 <li>Super admin can add, edit,update, delete Catagories, Subcategories and Brands </li>
 <li>Super admin can add, edit,Update, delete coupon code and coupon percentage</li>
@@ -54,7 +57,7 @@
 
 
 <ul>
-<h2>User</h2>
+<h2>For User:</h2>
 <li>Sign in/out with laravel default login/facebook/Google </li>
 <li>User can view all product section ,categories and subcategories product</li>
 <li>User can add product in wishlist and can see wishlist's all product</li>
@@ -73,6 +76,10 @@
 <li>user can subscribe and get newslater</li>
 <li>User can see all the contact details and can send message </li>
 </ul>
+
+
+
+
 
 
 
