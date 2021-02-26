@@ -20,8 +20,8 @@ In today’s fast-changing business environment, it’s extremely important to b
 <li><b>Cash on delivery<b></li>
 <li><b>Order tracking</b></li>
 <li><b>Coupons</b></li>
-<li><b>Multi language blog</b> </li>
-</li><b>Dynamic SEO</b></li>
+<li><b>Multi language blog</b></li>
+<li><b>Dynamic SEO</b></li>
 <li><b>Product review and share</b></li>
 <li><b>Subscribe<b></li>
 <li><b>Invoice mail</b>l</li>
@@ -57,7 +57,7 @@ In today’s fast-changing business environment, it’s extremely important to b
 
 
 <ul>
-<h2>For User:</h2>
+<h2>For User</h2>
 <li>Sign in/out with laravel default login/facebook/Google </li>
 <li>User can view all product section ,categories and subcategories product</li>
 <li>User can add product in wishlist and can see wishlist's all product</li>
@@ -76,6 +76,9 @@ In today’s fast-changing business environment, it’s extremely important to b
 <li>user can subscribe and get newslater</li>
 <li>User can see all the contact details and can send message </li>
 </ul>
+
+
+
 
 
 
