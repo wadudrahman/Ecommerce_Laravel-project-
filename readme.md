@@ -1,5 +1,5 @@
 ## About This Project
-In today’s fast-changing business environment, it’s extremely important to be able to respond to client needs in the most effective and timely manner.The ami is to develop this Project is  to allow customers to see your business online and have instant access  to purchase desired products instantly using online payment processor and also can place order by using cash on delivery option and have so many features for running online ecommerce platform.
+In today’s fast-changing business environment, it’s extremely important to be able to respond to client needs in the most effective and timely manner.The aim is to develop this Project is  to allow customers to see your business online and have instant access  to purchase desired products instantly using online payment processor and also can place order by using cash on delivery option and have so many features for running online ecommerce platform.
 
 
 ## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
