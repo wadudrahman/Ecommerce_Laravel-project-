@@ -1,5 +1,5 @@
 ## About This Project
-In today’s fast-changing business environment, it’s extremely important to be able to respond to client needs in the most effective and timely manner. If your customers wish to see your business online and have instant access to your products or services.This Project allows viewing various products available to user and enables registered users to purchase desired products instantly using Stripe payment processor and also can place order by using cash on delivery option.The system flow is the super administrator  will be the one that manages the user panel,Other admin panel, manages the system and the maintenance.This project have Multi-Authentication For User Login and Admin Login
+In today’s fast-changing business environment, it’s extremely important to be able to respond to client needs in the most effective and timely manner.The ami is to develop this Project is  to allow customers to see your business online and have instant access  to purchase desired products instantly using online payment processor and also can place order by using cash on delivery option and have so many features for running online ecommerce platform.
 
 
 ## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
