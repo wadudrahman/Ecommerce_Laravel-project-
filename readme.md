@@ -78,7 +78,12 @@ In today’s fast-changing business environment, it’s extremely important to b
 </ul>
 
 
-
+<ul>
+<h2>For guest User: </h2>
+<li>Guest User can view all products section ,categories and subcategories product</li>
+<li>Guest user can review a product, share, can see product video, product details and can subscribe</li>
+<li>Guest user can read blogs, site details  and search product</li>
+</ul>
 
 
 
