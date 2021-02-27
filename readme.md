@@ -57,7 +57,7 @@ In today’s fast-changing business environment, it’s extremely important to b
 
 
 <ul>
-<h2>For User</h2>
+<h2>For User: </h2>
 <li>Sign in/out with laravel default login/facebook/Google </li>
 <li>User can view all product section ,categories and subcategories product</li>
 <li>User can add product in wishlist and can see wishlist's all product</li>
